@@ -1,4 +1,4 @@
-# Cave Helicopter Flash Game
+# Cave Helicopter LabVIEW Game
 Welcome to the github repo for an extremely stupid LabVIEW game that I made during a training course a few years ago.
 Remember [this game](https://www.addictinggames.com/clicker/helicopter-game) from the early 2000s? 
 Would you like to play a version that uses more system resources, has significantly worse graphics, includes confusing and poorly implemented gameplay features and is just completely unnecessary?
