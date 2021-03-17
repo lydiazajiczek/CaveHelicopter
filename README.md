@@ -13,5 +13,5 @@ Of course you would!
 
 ## Known Issues
 * The high scores list is stored as a local text file (LOL) so if anyone has any suggestions on how to implement a global high scores list I would welcome them
-* Single fuel parcels show up as two separate graphical objects and I have NO IDEA WHY
+* Single fuel parcels show up as two separate graphical objects and I have NO IDEA WHY. Generally the fuel is implemented poorly, should it have sound when you get one? They are often in stupid hard to reach places??
 * I would love to compile this as a standalone .exe file so people can play it without having to have LabVIEW installed on their computer but...I haven't gotten around to it yet
