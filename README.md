@@ -6,7 +6,7 @@ Would you like to play that version...IN LABVIEW???
 Of course you would!
 
 ## Installation and Testing
-* Tested on LabVIEW 2017 on Windows 10
+* Tested on LabVIEW 2017 on Windows 10, so requires LV2017 or later
 * Requires [NI Vision Acquisition Software](https://www.ni.com/en-gb/support/downloads/drivers/download.vision-acquisition-software.html)
 * May also require [NI Vision Development Module](https://www.ni.com/en-gb/support/downloads/software-products/download.vision-development-module.html)???
 * Open `helicopter.vi` and press the run button in the toolbar...a baptism by fire is the best way to learn how to play this stupid stupid game! Basically press the large button and try not to LOL when you crash if you are playing at work. Hit CTRL-E to quickly bring up the block diagram in case your boss walks by!
