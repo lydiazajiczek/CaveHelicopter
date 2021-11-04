@@ -5,6 +5,8 @@ Would you like to play a version that uses more system resources, has significan
 Would you like to play that version...IN LABVIEW???
 Of course you would!
 
+![LOL](https://github.com/lydiazajiczek/CaveHelicopter/blob/main/images%20and%20sounds/helicopter_flame.png)
+
 ## Installation and Testing
 * Tested on LabVIEW 2017 on Windows 10, so requires LV2017 or later
 * Requires [NI Vision Acquisition Software](https://www.ni.com/en-gb/support/downloads/drivers/download.vision-acquisition-software.html)
